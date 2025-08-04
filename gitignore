@@ -1,0 +1,18 @@
+
+# Node modules
+node_modules/
+# Electron build output
+/dist
+/out
+# Build artifacts
+build/
+*.log
+*.tsbuildinfo
+# dotenv
+.env
+.env.*
+# OS
+.DS_Store
+Thumbs.db
+# Vscode
+.vscode/
